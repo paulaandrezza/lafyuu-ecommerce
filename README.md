@@ -35,8 +35,7 @@ Para rodar este projeto, você precisará ter instalado:
 ### 1. Clone o repositório:
 
 ```bash
-git clone https://github.com/paulaandrezza/ADS-6-Semestre.git
-cd .\PDMI6\Projetos\lafyuu
+git clone paulaandrezza/lafyuu-ecommerce.git
 ```
 
 ### 2. Crie o arquivo `.env` na raiz do projeto:
